@@ -13,17 +13,19 @@
 ```
 
 ```css
-        html,body{height:100%;}
-        body{
-            background: url('Building.jpg');
-            /* height:calc(10 * 100vh) */
-            /* background-repeat:no-repeat;
-            background-size:contain; */
-        }
+html,body{
+        height:100%;
+}
+body{
+        background: url('Building.jpg');
+        /* height:calc(10 * 100vh) */
+        /* background-repeat:no-repeat;
+        background-size:contain; */
+}
 ```
 ```javascript
-      for(let i=0; i < 1000; i++)
-            document.write('<br>')
+for(let i=0; i < 1000; i++)
+        document.write('<br>')
 ```
 
 ### --------ZAD
