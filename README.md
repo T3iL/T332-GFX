@@ -15,7 +15,7 @@
 
 ### --------ZAD
 ```
-T33201 - Przygotuj bezszwowe tło strony, które będzie się powtarzać w nieskończoność (cegły, trawa, liście), textures.com
+T33201 - Przygotuj bezszwowe tło strony, które będzie się powtarzać w nieskończoność (cegły, trawa, liście, kamienie), textures.com
 
 T33202 - Przygotuj atrakcyjny button, który nie byłby do uzyskania (w łatwy sposób w HTML/CSS)
 
