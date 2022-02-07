@@ -32,7 +32,7 @@ for(let i=0; i < 1000; i++)
 ```
 T33201 - Przygotuj bezszwowe tło strony, które będzie się powtarzać w nieskończoność (cegły, trawa, liście, kamienie), textures.com
 
-T33202 - Przygotuj atrakcyjny button, który nie byłby do uzyskania (w łatwy sposób w HTML/CSS)
+T33202 - Przygotuj atrakcyjny button, który nie byłby do uzyskania (w łatwy sposób) w HTML/CSS
 
 T33203 - Stwórz layout strony startowej w Figma (zainspiruj się przykładami istniejącymi)
   - blog podróżniczy
