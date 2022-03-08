@@ -2,8 +2,8 @@
 
 ## -------INFO
 ```
-1. Grafika rastrowa - Photopea, Photoshop, Gimp, Krita, Blender
-2. Grafika wektorowa - Inkscape, Figma
+1. Grafika rastrowa - Photopea, Photoshop, <b>Gimp</b>, Krita, Blender
+2. Grafika wektorowa - <b>Inkscape</b>, Figma
 3. Formaty plików graficznych - dokument (PSD, SVG) - eksport JPEG, PNG, GIF, WEBP
 4. Tło strony,
 5. Button
