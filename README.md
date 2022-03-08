@@ -2,9 +2,9 @@
 
 ## -------INFO
 ```
-1. Photopea, Photoshop, Gimp, Krita, Blender
-2. Inkscape, Figma
-3. Formaty - PSD, SVG, - JPEG, PNG, GIF, WEBP
+1. Grafika rastrowa - Photopea, Photoshop, Gimp, Krita, Blender
+2. Grafika wektorowa - Inkscape, Figma
+3. Formaty plików graficznych - dokument (PSD, SVG) - eksport JPEG, PNG, GIF, WEBP
 4. Tło strony,
 5. Button
 6. Layout: Figma
@@ -23,6 +23,7 @@ body{
         background-size:contain; */
 }
 ```
+"rozepchanie strony"
 ```javascript
 for(let i=0; i < 1000; i++)
         document.write('<br>')
